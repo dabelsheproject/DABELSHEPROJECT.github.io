@@ -11,7 +11,7 @@
  #header .wsite-search-input::-moz-placeholder { color: #fff; }
  #header .wsite-search-input:-ms-input-placeholder { color: #fff; }
  html { height: 100%; }
- body { height: 100%; font-family: 'Open Sans', sans-serif; font-size:16px; line-height:1.75em; color:#666666; background: #232323 url('theme/default-bg.jpg?305722') center center no-repeat; background-size: cover; background-attachment: fixed; }
+ body { height: 100%; font-family: 'Open Sans', sans-serif; font-size:16px; line-height:1.75em; color:#666666; background: #232323 url('theme/default-bg.jpg?569083') center center no-repeat; background-size: cover; background-attachment: fixed; }
  .container { margin: 0 auto; width:960px; }
  #header-wrap, #main-wrap, #footer-wrap { width:100%; margin:0 auto; }
  a { color: #2a92e5 ; }
@@ -24,7 +24,7 @@
  .styled-hr { background-color: #ccc; height: 2px; }
  #splash-wrap .styled-hr { background-color: #fff; }
  .tall-header-page, .short-header-page, .no-header-page, .landing-page { background: #232323; }
- .tall-header-page .wsite-background, .short-header-page .wsite-background, .landing-page .wsite-background { background: transparent url('theme/default-bg.jpg?305722') center center no-repeat; background-size: cover; background-attachment: fixed; }
+ .tall-header-page .wsite-background, .short-header-page .wsite-background, .landing-page .wsite-background { background: transparent url('theme/default-bg.jpg?569083') center center no-repeat; background-size: cover; background-attachment: fixed; }
  .tall-header-page, .landing-page, .short-header-page { background-image: none; }
  .tall-header-page #header-wrap { padding: 25px 0 12px; }
  .landing-page #header-wrap { padding: 90px 0 12px 0; -moz-box-sizing: border-box; box-sizing: border-box; height: 630px; overflow: hidden; }
@@ -44,31 +44,31 @@
  .no-header-page { padding-top: 90px; }
  #header-right .wsite-social { vertical-align: middle; }
  .wsite-social-item { width: 36px; height: 36px; margin: 0 0 0 8px; }
- .wsite-social-rss { background: url(theme/social-icons.png?305722) no-repeat -321px -12px; }
+ .wsite-social-rss { background: url(theme/social-icons.png?569083) no-repeat -321px -12px; }
  .wsite-social-rss:hover { background-position: -321px -54px; }
- .wsite-social-linkedin { background: url(theme/social-icons.png?305722) no-repeat -143px -12px; }
+ .wsite-social-linkedin { background: url(theme/social-icons.png?569083) no-repeat -143px -12px; }
  .wsite-social-linkedin:hover { background-position: -143px -54px; }
- .wsite-social-facebook { background: url(theme/social-icons.png?305722) no-repeat -54px -12px; }
+ .wsite-social-facebook { background: url(theme/social-icons.png?569083) no-repeat -54px -12px; }
  .wsite-social-facebook:hover { background-position: -54px -54px; }
- .wsite-social-twitter { background: url(theme/social-icons.png?305722) no-repeat -9px -12px; }
+ .wsite-social-twitter { background: url(theme/social-icons.png?569083) no-repeat -9px -12px; }
  .wsite-social-twitter:hover { background-position: -9px -54px; }
- .wsite-social-mail { background: url(theme/social-icons.png?305722) no-repeat -187px -12px; }
+ .wsite-social-mail { background: url(theme/social-icons.png?569083) no-repeat -187px -12px; }
  .wsite-social-mail:hover { background-position: -187px -54px; }
- .wsite-social-pinterest { background: url(theme/social-icons.png?305722) no-repeat -277px -12px; }
+ .wsite-social-pinterest { background: url(theme/social-icons.png?569083) no-repeat -277px -12px; }
  .wsite-social-pinterest:hover { background-position: -277px -54px; }
- .wsite-social-youtube { background: url(theme/social-icons.png?305722) no-repeat -455px -12px; }
+ .wsite-social-youtube { background: url(theme/social-icons.png?569083) no-repeat -455px -12px; }
  .wsite-social-youtube:hover { background-position: -455px -54px; }
- .wsite-social-plus { background: url(theme/social-icons.png?305722) no-repeat -98px -12px; }
+ .wsite-social-plus { background: url(theme/social-icons.png?569083) no-repeat -98px -12px; }
  .wsite-social-plus:hover { background-position: -98px -54px; }
- .wsite-social-flickr { background: url(theme/social-icons.png?305722) no-repeat -232px -12px; }
+ .wsite-social-flickr { background: url(theme/social-icons.png?569083) no-repeat -232px -12px; }
  .wsite-social-flickr:hover { background-position: -232px -54px; }
- .wsite-social-vimeo { background: url(theme/social-icons.png?305722) no-repeat -366px -12px; }
+ .wsite-social-vimeo { background: url(theme/social-icons.png?569083) no-repeat -366px -12px; }
  .wsite-social-vimeo:hover { background-position: -366px -54px; }
- .wsite-social-yahoo { background: url(theme/social-icons.png?305722) no-repeat -410px -12px; }
+ .wsite-social-yahoo { background: url(theme/social-icons.png?569083) no-repeat -410px -12px; }
  .wsite-social-yahoo:hover { background-position: -410px -54px; }
  #header .wsite-search { vertical-align: middle; border: 2px solid #fff; border-radius:4px; position:relative; }
  #header .wsite-search-input { width: 145px; height: 21px; border: 0; padding: 3px 5px !important; font-family: 'Open Sans', sans-serif; color: #fff; font-size: 13px; background: none; float:left; }
- #header .wsite-search-button { position: relative; width: 46px; height: 21px; border: 0; padding: 4px 0; background: url("theme/submit-bg.png?305722") no-repeat right center; cursor: pointer; }
+ #header .wsite-search-button { position: relative; width: 46px; height: 21px; border: 0; padding: 4px 0; background: url("theme/submit-bg.png?569083") no-repeat right center; cursor: pointer; }
  #header .wsite-search-cover { position:absolute; width:50px; height:30px; right:0px; top: 0px; z-index:1; cursor: pointer; }
  .nav { padding: 0 0 0 20px !important; }
  .nav ul{ list-style: none; float:right; overflow: hidden; }
@@ -76,7 +76,7 @@
  .nav ul li#active, .nav ul li:hover { border:2px solid #fff; border-radius:4px; padding:6px 13px; }
  .nav ul li a { float:left; display: block; color:#fff; text-decoration:none; text-transform:uppercase; font-weight: 500; border: 0; outline: 0; list-style-type: none; font-size:14px; line-height:23px; }
  #nav-wrap .container ul li#active a, #nav-wrap .container ul li a:hover { color: #fff; background: none !important; border: 0; }
- .landing-page:before, .splash-page:before, .tall-header-page:before, .short-header-page:before { content: ''; width: 100%; height: 130px; position: fixed; top: 0; left: 0; background: transparent url('theme/menu-bg.png?305722') left top repeat; z-index: 1; }
+ .landing-page:before, .splash-page:before, .tall-header-page:before, .short-header-page:before { content: ''; width: 100%; height: 130px; position: fixed; top: 0; left: 0; background: transparent url('theme/menu-bg.png?569083') left top repeat; z-index: 1; }
  #wsite-menus .wsite-menu { position:relative; margin-top:11px; }
  #wsite-menus .wsite-menu li ul:after { content: ""; width: 0px; height: 0px; border-style: none; border-width: 0 0px 0px 0px; border-color: transparent transparent transparent transparent; position:absolute; top:-6px; left:16px; }
  #wsite-menus .wsite-menu:after { content: ""; width: 0px; height: 0px; border-style: solid; border-width: 0 5.5px 6px 5.5px; border-color: transparent transparent #232323 transparent; position:absolute; top:-6px; left:16px; }
@@ -127,7 +127,7 @@
  #footer-wrap .container p { color: #999; font-size: 13px; }
  #footer-wrap .container blockquote { color: #999; font-size:13px; }
  #footer-wrap .paragraph ul #footer-wrap .paragraph ol { margin: 0 !important; padding: 0 !important; }
- #footer-wrap .paragraph li { list-style: none; background: url(theme/bullets.png?305722) no-repeat left 8px; padding-left: 15px !important; }
+ #footer-wrap .paragraph li { list-style: none; background: url(theme/bullets.png?569083) no-repeat left 8px; padding-left: 15px !important; }
  #footer-wrap .wsite-form-container { text-align:left; margin-top:0px !important; }
  #footer-wrap .wsite-form-input, #footer-wrap .wsite-search-element-input { font-family:'Open Sans',sans-serif; font-size: 13px; color: #626262; background: #181818; border: 0; padding: 10px 6px !important; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; }
  #footer-wrap .form-select { color: #626262; border: 0; font-size: 13px; font-family:'Open Sans',sans-serif; font-style: italic; padding: 10px; width: 380px ; height: 40px!important; line-height: 15px; background: #181818; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; }
